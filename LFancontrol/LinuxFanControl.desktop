@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=Linux Fan Control
+Comment=Basit grafik arayüzlü fan kontrol uygulaması
+Path=/home/geb/Masaüstü/LFancontrol
+Exec=python3 app.py
+Icon=utilities-system-monitor
+Terminal=false
+Categories=System;Utility;
+
